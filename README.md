@@ -2,7 +2,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/DarkSupremo/Sonarr-Scanner.svg?maxAge=60&style=flat-square)](https://github.com/DarkSupremo/Sonarr-Scanner/pulls)
 [![Github Releases](https://img.shields.io/github/downloads/DarkSupremo/Sonarr-Scanner/total.svg?maxAge=60&style=flat-square)](https://github.com/DarkSupremo/Sonarr-Scanner/releases/latest)
 
-# Scanner
+# Scannarr
 Keep monitoring the Sonarr and Radarr wanted list and send an search request to then at every X minutes or on Wake Event, forcing an Automatic Search instead of relying on RSS based search, this way it will be more suitable to home based systems.
 
 The software was completly rewritten to .NET Core (cross platform)
