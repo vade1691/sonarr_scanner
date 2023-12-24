@@ -5,7 +5,7 @@ The software was completly rewritten to .NET Core (cross platform)
 
 ## Settings 
 
-To start using it, you just need to configure **'settings_sonarr.json'** and/or **'settings_radarr.json'**, make sure to put the correct API Key.  
+To start using, you need to create & configure 'settings_sonarr.json' and/or 'settings_radarr.json' on your local drive using the below templates and make sure to input the correct API Key.  
 
 ### settings_sonarr.json
 ```
@@ -44,5 +44,5 @@ You can omit sonarr or radarr and use only one of then if you wish.
 docker run -it --rm \
 -v /path/to/settings_sonarr.json:/app/settings_sonarr.json:ro \
 -v /path/to/settings_radarr.json:/app/settings_radarr.json:ro \
-ghcr.io/vade1691/sonarr_scanner:latest
+vaade/scanarr:latest
 ```
