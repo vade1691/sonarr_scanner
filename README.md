@@ -1,7 +1,3 @@
-[![GitHub issues](https://img.shields.io/github/issues/vade1691/Sonarr-Scanner.svg?maxAge=60&style=flat-square)](https://github.com/vade1691/Sonarr-Scanner/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/vade1691/Sonarr-Scanner.svg?maxAge=60&style=flat-square)](https://github.com/vade1691/Sonarr-Scanner/pulls)
-[![Github Releases](https://img.shields.io/github/downloads/vade1691/Sonarr-Scanner/total.svg?maxAge=60&style=flat-square)](https://github.com/vade1691/Sonarr-Scanner/releases/latest)
-
 # Scannarr
 Keep monitoring the Sonarr and Radarr wanted list and send an search request to then at every X minutes or on Wake Event, forcing an Automatic Search instead of relying on RSS based search, this way it will be more suitable to home based systems.
 
