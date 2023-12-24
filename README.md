@@ -5,7 +5,7 @@ The software was completly rewritten to .NET Core (cross platform)
 
 ## Settings 
 
-To start using it, you just need to configure **'settings_sonarr.json'** and/or **'settings_radarr.json'**, make sure to put the correect API Key.  
+To start using it, you just need to configure **'settings_sonarr.json'** and/or **'settings_radarr.json'**, make sure to put the correct API Key.  
 
 ### settings_sonarr.json
 ```
